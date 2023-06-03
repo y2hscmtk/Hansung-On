@@ -1,0 +1,502 @@
+[
+ {
+  "director": "Christopher Nolan",
+  "leading_role": "Leonardo DiCaprio",
+  "id": 27205
+ },
+ {
+  "director": "Christopher Nolan",
+  "leading_role": "Christian Bale",
+  "id": 155
+ },
+ {
+  "director": "James Cameron",
+  "leading_role": "Sam Worthington",
+  "id": 19995
+ },
+ {
+  "director": "Joss Whedon",
+  "leading_role": "Robert Downey Jr.",
+  "id": 24428
+ },
+ {
+  "director": "Tim Miller",
+  "leading_role": "Ryan Reynolds",
+  "id": 293660
+ },
+ {
+  "director": "Christopher Nolan",
+  "leading_role": "Matthew McConaughey",
+  "id": 157336
+ },
+ {
+  "director": "Quentin Tarantino",
+  "leading_role": "Jamie Foxx",
+  "id": 68718
+ },
+ {
+  "director": "James Gunn",
+  "leading_role": "Chris Pratt",
+  "id": 118340
+ },
+ {
+  "director": "David Fincher",
+  "leading_role": "Brad Pitt",
+  "id": 550
+ },
+ {
+  "director": "Francis Lawrence",
+  "leading_role": "Jennifer Shrader Lawrence",
+  "id": 70160
+ },
+ {
+  "director": "George Miller",
+  "leading_role": "Tom Hardy",
+  "id": 76341
+ },
+ {
+  "director": "Christopher Nolan",
+  "leading_role": "Christian Bale",
+  "id": 49026
+ },
+ {
+  "director": "Lilly Wachowski",
+  "leading_role": "Keanu Reeves",
+  "id": 603
+ },
+ {
+  "director": "Jon Favreau",
+  "leading_role": "Robert Downey Jr.",
+  "id": 1726
+ },
+ {
+  "director": "Shane Black",
+  "leading_role": "Robert Downey Jr.",
+  "id": 68721
+ },
+ {
+  "director": "Peter Jackson",
+  "leading_role": "Elijah Wood",
+  "id": 120
+ },
+ {
+  "director": "Colin Trevorrow",
+  "leading_role": "Chris Pratt",
+  "id": 135397
+ },
+ {
+  "director": "Quentin Tarantino",
+  "leading_role": "John Joseph Travolta",
+  "id": 680
+ },
+ {
+  "director": "Peter Jackson",
+  "leading_role": "Ian McKellen",
+  "id": 49051
+ },
+ {
+  "director": "Frank Darabont",
+  "leading_role": "Tim Robbins",
+  "id": 278
+ },
+ {
+  "director": "Peter Jackson",
+  "leading_role": "Elijah Wood",
+  "id": 122
+ },
+ {
+  "director": "Robert Zemeckis",
+  "leading_role": "Tom Hanks",
+  "id": 13
+ },
+ {
+  "director": "J.J. Abrams",
+  "leading_role": "Daisy Ridley",
+  "id": 140607
+ },
+ {
+  "director": "James Cameron",
+  "leading_role": "Leonardo DiCaprio",
+  "id": 597
+ },
+ {
+  "director": "Sam Mendes",
+  "leading_role": "Daniel Craig",
+  "id": 37724
+ },
+ {
+  "director": "David Ayer",
+  "leading_role": "Will Smith",
+  "id": 297761
+ },
+ {
+  "director": "Peter Jackson",
+  "leading_role": "Elijah Wood",
+  "id": 121
+ },
+ {
+  "director": "Christopher Nolan",
+  "leading_role": "Christian Bale",
+  "id": 272
+ },
+ {
+  "director": "Anthony Russo",
+  "leading_role": "Chris Evans",
+  "id": 271110
+ },
+ {
+  "director": "Ridley Scott",
+  "leading_role": "Matt Damon",
+  "id": 286217
+ },
+ {
+  "director": "Gore Verbinski",
+  "leading_role": "Johnny Depp",
+  "id": 22
+ },
+ {
+  "director": "Zack Snyder",
+  "leading_role": "Henry Cavill",
+  "id": 209112
+ },
+ {
+  "director": "Chris Columbus",
+  "leading_role": "Daniel Jacob Radcliffe",
+  "id": 671
+ },
+ {
+  "director": "Joe Johnston",
+  "leading_role": "Chris Evans",
+  "id": 1771
+ },
+ {
+  "director": "Pete Docter",
+  "leading_role": "Edward Asner",
+  "id": 14160
+ },
+ {
+  "director": "Jon Favreau",
+  "leading_role": "Robert Downey Jr.",
+  "id": 10138
+ },
+ {
+  "director": "Joss Whedon",
+  "leading_role": "Robert Downey Jr.",
+  "id": 99861
+ },
+ {
+  "director": "George Lucas",
+  "leading_role": "Mark Hamill",
+  "id": 11
+ },
+ {
+  "director": "Martin Scorsese",
+  "leading_role": "Leonardo DiCaprio",
+  "id": 106646
+ },
+ {
+  "director": "Pete Docter",
+  "leading_role": "Amy Poehler",
+  "id": 150540
+ },
+ {
+  "director": "Marc Webb",
+  "leading_role": "Andrew Garfield",
+  "id": 1930
+ },
+ {
+  "director": "Kenneth Branagh",
+  "leading_role": "Chris Hemsworth",
+  "id": 10195
+ },
+ {
+  "director": "Francis Lawrence",
+  "leading_role": "Jennifer Shrader Lawrence",
+  "id": 101299
+ },
+ {
+  "director": "Quentin Tarantino",
+  "leading_role": "Brad Pitt",
+  "id": 16869
+ },
+ {
+  "director": "Pierre Coffin",
+  "leading_role": "Steven John Carell",
+  "id": 20352
+ },
+ {
+  "director": "Martin Scorsese",
+  "leading_role": "Leonardo DiCaprio",
+  "id": 11324
+ },
+ {
+  "director": "Alejandro Gonzalez Inarritu",
+  "leading_role": "Leonardo DiCaprio",
+  "id": 281957
+ },
+ {
+  "director": "Zack Snyder",
+  "leading_role": "Henry Cavill",
+  "id": 49521
+ },
+ {
+  "director": "Andrew Stanton",
+  "leading_role": "Ben Burtt",
+  "id": 10681
+ },
+ {
+  "director": "Todd Phillips",
+  "leading_role": "Bradley Charles Cooper",
+  "id": 18785
+ },
+ {
+  "director": "James Mangold",
+  "leading_role": "Hugh Jackman",
+  "id": 263115
+ },
+ {
+  "director": "Andrew Stanton",
+  "leading_role": "Albert Brooks",
+  "id": 12
+ },
+ {
+  "director": "Don Hall",
+  "leading_role": "Daniel Henney",
+  "id": 177572
+ },
+ {
+  "director": "Robert Zemeckis",
+  "leading_role": "Michael J. Fox",
+  "id": 105
+ },
+ {
+  "director": "Bryan Singer",
+  "leading_role": "Hugh Jackman",
+  "id": 127585
+ },
+ {
+  "director": "Pete Docter",
+  "leading_role": "John Goodman",
+  "id": 585
+ },
+ {
+  "director": "David Yates",
+  "leading_role": "Daniel Jacob Radcliffe",
+  "id": 12445
+ },
+ {
+  "director": "Matthew Vaughn",
+  "leading_role": "Colin Firth",
+  "id": 207703
+ },
+ {
+  "director": "Luc Besson",
+  "leading_role": "Scarlett Johansson",
+  "id": 240832
+ },
+ {
+  "director": "Alfonso Cuaron",
+  "leading_role": "Daniel Jacob Radcliffe",
+  "id": 673
+ },
+ {
+  "director": "Peyton Reed",
+  "leading_role": "Paul Rudd",
+  "id": 102899
+ },
+ {
+  "director": "Francis Ford Coppola",
+  "leading_role": "Marlon Brando",
+  "id": 238
+ },
+ {
+  "director": "David Fincher",
+  "leading_role": "Ben Affleck",
+  "id": 210577
+ },
+ {
+  "director": "Irvin Kershner",
+  "leading_role": "Mark Hamill",
+  "id": 1891
+ },
+ {
+  "director": "Chris Columbus",
+  "leading_role": "Daniel Jacob Radcliffe",
+  "id": 672
+ },
+ {
+  "director": "David Fincher",
+  "leading_role": "Brad Pitt",
+  "id": 807
+ },
+ {
+  "director": "Lee Ang",
+  "leading_role": "Suraj Sharma",
+  "id": 87827
+ },
+ {
+  "director": "Morten Tyldum",
+  "leading_role": "Benedict Cumberbatch",
+  "id": 205596
+ },
+ {
+  "director": "Guy Ritchie",
+  "leading_role": "Robert Downey Jr.",
+  "id": 10528
+ },
+ {
+  "director": "Joe Russo",
+  "leading_role": "Chris Evans",
+  "id": 100402
+ },
+ {
+  "director": "Scott Derrickson",
+  "leading_role": "Benedict Cumberbatch",
+  "id": 284052
+ },
+ {
+  "director": "Alfonso Cuaron",
+  "leading_role": "Sandra Bullock",
+  "id": 49047
+ },
+ {
+  "director": "Francis Lawrence",
+  "leading_role": "Jennifer Shrader Lawrence",
+  "id": 131631
+ },
+ {
+  "director": "Mike Newell",
+  "leading_role": "Daniel Jacob Radcliffe",
+  "id": 674
+ },
+ {
+  "director": "Denis Villeneuve",
+  "leading_role": "Amy Lou Adams",
+  "id": 329865
+ },
+ {
+  "director": "David Yates",
+  "leading_role": "Daniel Jacob Radcliffe",
+  "id": 12444
+ },
+ {
+  "director": "Marc Forster",
+  "leading_role": "Brad Pitt",
+  "id": 72190
+ },
+ {
+  "director": "Louis Leterrier",
+  "leading_role": "Jesse Eisenberg",
+  "id": 75656
+ },
+ {
+  "director": "David Yates",
+  "leading_role": "Daniel Jacob Radcliffe",
+  "id": 675
+ },
+ {
+  "director": "David Yates",
+  "leading_role": "Eddie Redmayne",
+  "id": 259316
+ },
+ {
+  "director": "Ridley Scott",
+  "leading_role": "Russell Crowe",
+  "id": 98
+ },
+ {
+  "director": "Wes Ball",
+  "leading_role": "Dylan O'Brien",
+  "id": 198663
+ },
+ {
+  "director": "Bill Condon",
+  "leading_role": "Emma Watson",
+  "id": 321612
+ },
+ {
+  "director": "Roger Allers",
+  "leading_role": "Jonathan Taylor Thomas",
+  "id": 8587
+ },
+ {
+  "director": "David Leitch",
+  "leading_role": "Keanu Reeves",
+  "id": 245891
+ },
+ {
+  "director": "Chris Buck",
+  "leading_role": "Kristen Bell",
+  "id": 109445
+ },
+ {
+  "director": "David Yates",
+  "leading_role": "Daniel Jacob Radcliffe",
+  "id": 767
+ },
+ {
+  "director": "John Lasseter",
+  "leading_role": "Tom Hanks",
+  "id": 862
+ },
+ {
+  "director": "Olivier Nakache",
+  "leading_role": "Francois Cluzet",
+  "id": 77338
+ },
+ {
+  "director": "Sam Raimi",
+  "leading_role": "Tobey Maguire",
+  "id": 557
+ },
+ {
+  "director": "Gore Verbinski",
+  "leading_role": "Johnny Depp",
+  "id": 58
+ },
+ {
+  "director": "Brad Bird",
+  "leading_role": "Craig T. Nelson",
+  "id": 9806
+ },
+ {
+  "director": "Justin Lin",
+  "leading_role": "Vin Diesel",
+  "id": 82992
+ },
+ {
+  "director": "Matthew Vaughn",
+  "leading_role": "James McAvoy",
+  "id": 49538
+ },
+ {
+  "director": "Ridley Scott",
+  "leading_role": "Noomi Rapace",
+  "id": 70981
+ },
+ {
+  "director": "Steven Spielberg",
+  "leading_role": "Tom Hanks",
+  "id": 857
+ },
+ {
+  "director": "Gareth Edwards",
+  "leading_role": "Felicity Jones",
+  "id": 330459
+ },
+ {
+  "director": "Zack Snyder",
+  "leading_role": "Gerard James Butler",
+  "id": 1271
+ },
+ {
+  "director": "Quentin Tarantino",
+  "leading_role": "Uma Thurman",
+  "id": 24
+ },
+ {
+  "director": "Rob Marshall",
+  "leading_role": "Johnny Depp",
+  "id": 1865
+ }
+]

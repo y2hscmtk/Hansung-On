@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@color/gray">
+
+
+
+
+    <ImageView
+        android:id="@+id/big_poster"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:src="@drawable/poster_sample"/>
+
+
+
+
+<!--    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+    </ScrollView>-->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <!--구분선-->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginHorizontal="10dp"
+                android:background="#aaa"
+                android:layout_marginTop="8dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:id="@+id/m_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="영화 이름"
+                    android:textColor="@color/white"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="13dp"
+                    android:orientation="horizontal">
+
+
+                    <!--빨간별-->
+                    <ImageView
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="8dp"
+                        android:src="@drawable/ic_redstar" />
+
+                    <!--평점-->
+                    <TextView
+                        android:id="@+id/m_vote_average"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="4dp"
+                        android:text="9.2"
+                        android:textColor="#BABABA"
+                        android:textSize="17dp"
+                        android:textStyle="bold" />
+
+                    <!--세로 구분선-->
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="12dp"
+                        android:layout_marginHorizontal="10dp"
+                        android:layout_marginTop="6dp"
+                        android:background="#aaa" />
+
+                    <!--런 타임-->
+
+
+                    <TextView
+                        android:id="@+id/m_runTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="97분"
+                        android:textColor="#BABABA"
+                        android:textSize="17dp"
+                        android:textStyle="bold" />
+
+                    <!--세로 구분선-->
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="12dp"
+                        android:layout_marginHorizontal="10dp"
+                        android:layout_marginTop="6dp"
+                        android:background="#aaa" />
+
+                    <!--연령-->
+                    <TextView
+                        android:id="@+id/m_adult"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="전 연령"
+                        android:textColor="#BABABA"
+                        android:textSize="17dp"
+                        android:textStyle="bold" />
+
+                    <!--세로 구분선-->
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="12dp"
+                        android:layout_marginHorizontal="10dp"
+                        android:layout_marginTop="6dp"
+                        android:background="#aaa" />
+
+                    <!--언어-->
+                    <TextView
+                        android:id="@+id/m_language"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="ENG"
+                        android:textColor="#BABABA"
+                        android:textSize="17dp"
+                        android:textStyle="bold" />
+
+
+                    <!--투표하기-->
+                    <ImageView
+                        android:id="@+id/btn_vote"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="60dp"
+                        android:textColor="#BABABA"
+                        android:src="@drawable/ic_dark_heart"/>
+
+                    <TextView
+                        android:id="@+id/vote_count"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="3dp"
+                        android:text="123145"
+                        android:textColor="#BABABA"
+                        android:textStyle="bold"/>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <!--감독-->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="감독"
+                            android:textColor="@color/white"
+                            android:textSize="16dp" />
+
+                        <TextView
+                            android:id="@+id/m_director"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:text="감독 이름"
+                            android:textColor="@color/white"
+                            android:textSize="16dp" />
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="주연"
+                            android:textColor="@color/white"
+                            android:textSize="16dp" />
+
+                        <TextView
+                            android:id="@+id/m_leading_actor"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:text="주연 배우"
+                            android:textColor="@color/white"
+                            android:textSize="16dp" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <!--줄거리 overview-->
+                <TextView
+                    android:id="@+id/m_overiew"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:text="옛날 옛적에 마틸다는 레옹과 함께 잘먹고 잘 살았답니다 옛날 옛적에 마틸다는 레옹과 함께 잘먹고 잘 살았답니다 옛날 옛적에 마틸다는 레옹과 함께 잘먹고 잘 살았답니다"
+                    android:textColor="#BABABA"
+                    android:textSize="16dp" />
+
+                <!--구분선-->
+                <!--<View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginHorizontal="10dp"
+                    android:background="#aaa"
+                    android:layout_marginTop="8dp" />-->
+
+
+                <!--유사 영화-->
+                <TextView
+                    android:id="@+id/similar_movies"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Recommand"
+                    android:textColor="@color/white"
+                    android:textSize="20dp"
+                    android:textStyle="bold"/>
+
+                <!--유사영화 리사이클러뷰-->
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recommend_movie_view"
+                    android:layout_marginTop="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"/>
+
+            </LinearLayout>
+
+
+            <!--리뷰 출력-->
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/review_view"
+                android:layout_weight="1"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="0dp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+
+    <!--리뷰들 보여주기-->
+    <!--<TextView
+        android:layout_margin="20dp"
+        android:id="@+id/m_review"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="리뷰들"
+        android:textColor="#BABABA"
+        android:textSize="18dp"
+        android:textStyle="bold" />-->
+
+    <!--리뷰 출력-->
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:id="@+id/review_view"-->
+<!--        android:layout_weight="1"-->
+<!--        android:layout_margin="10dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp" />-->
+
+
+</LinearLayout>
