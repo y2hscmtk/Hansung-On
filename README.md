@@ -26,6 +26,8 @@ Overview의 첫 문장이 너무 길다면, 문장의 뒷 부분은 적절히 �
 
 ![2](https://github.com/y2hscmtk/HansungOn/assets/109474668/c454a1c2-4a86-4934-9270-2ef376a1c515)
 
+https://github.com/y2hscmtk/HansungOn/assets/109474668/0778bffe-32d4-49ef-83ab-d4d3a03143f6
+
 [영화 상세보기 페이지] 
 - 영화 상세보기 페이지는 네이버 시리즈온의 영화 상세보기 페이지
 (예: https://m.serieson.naver.com/v2/movie/563014)를 참조하여 유사하게 디자인하며, 
@@ -33,10 +35,7 @@ TMDB사이트 (예: https://www.themoviedb.org/movie/862-toy-story)를 참조하
 - 해당 영화에 대한 IMDB의 10개의 user review를 ‘Featured’ 순으로 볼 수 있어야 한다. 
 (HINT: links.csv 파일을 활용하여 IMDB에 접근하라) user review는 IMDB에서 scraping 하여 파일 형태로 저장한 후 출력해도 되고 실시간으로 IMDB에 접근하여 출력해도 관계 없음. 
 - 새로운 평점을 남기는 기능을 가지고 있어야 한다. 
-- 포스터 이미지는 영화에 상관없이 이클래스에 업로드 된 sample_poster 이미지로 통일하여 사용하라. 
-
-
-
+- 포스터 이미지는 영화에 상관없이 이클래스에 업로드 된 sample_poster 이미지로 통일하여 사용하라. => 파이썬 BeautifulSoup을 이용하여 100개 이미지를 다운받아 사용하였음
 
 [부가기능] 
 - 선택된 영화와 유사한 10개 이하 의 영화를 추천하는 기능
@@ -44,6 +43,12 @@ TMDB사이트 (예: https://www.themoviedb.org/movie/862-toy-story)를 참조하
 를 활용하면 두 영화 plot이 얼마나 유사한지 구할 수 있다. 
 (제시된 오픈소스 이외에 다른 오픈소스 소프트웨어를 사용하거나 직접 구현하는 것이 허용되나, 오직 코사인 유사도(https://wikidocs.net/24603)에 기반하여 구현되어야 한다.)
 - 네이버 시리즈온과의 디자인 테마 유사성
+
+![3](https://github.com/y2hscmtk/HansungOn/assets/109474668/c3757730-c90b-4315-80af-2ef20c4556ab)
+
+https://github.com/y2hscmtk/HansungOn/assets/109474668/0c0cd3b1-c8df-4fe3-8c6d-f3b3937e2fc2
+
+
 
 
 
