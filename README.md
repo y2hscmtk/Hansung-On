@@ -1,7 +1,7 @@
 # HansungOn
 안드로이드 프로그래밍 기말 대체 과제
 
-HansungOn은 Kaggle 영화 데이터셋(https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)에서 다운받은
+HansungOn은 Kaggle 영화 데이터셋(https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset )에서 다운받은
 약 5만개 가량의 영화 메타데이터 movies_metadata.csv를 이용하여 만든 어플리케이션이다.
 
 OTT앱에서 실제 영상 시청기능을 제외한 나머지 기능들을 구현하였으며 아래의 조건들을 만족한다.
